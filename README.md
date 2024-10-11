@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Amanda</h1>
-<h3 align="center">My passion is design, I know you will like it!</h3>
+<head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet">
+</head>
+<body>
+  <h1 align="center" style="font-family: 'Patrick Hand', cursive;">Hi 👋, I'm Amanda</h1>
+  <h3 align="center" style="font-family: 'Patrick Hand', cursive;">My passion is design, I know you will like it!</h3>
 
-- 🌱 I’m currently learning **courses, I love certificates**
+  - 🌱 I’m currently learning **courses, I love certificates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
