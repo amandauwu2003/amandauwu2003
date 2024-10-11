@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Amanda</h1>
+<h3 align="center">My passion is design, I know you will like it!</h3>
+
+- 🌱 I’m currently learning **courses, I love certificates**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amanda.x_yt) 
